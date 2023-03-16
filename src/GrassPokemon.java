@@ -40,7 +40,7 @@ public class GrassPokemon extends PokemonSuper {
         System.out.println(getName() + " dont give in. Use Leaf Storm!");
     }
     //Leaf Storm | power: 130, accuracy: 90%, PP count: 5 (max 8)
-    //Leaf Storm deals damage but lowers the user's Special Attack by two stages after attacking.
+    // Leaf Storm deals damage but lowers the user's Special Attack by two stages after attacking.
 
     public void leechSeed() {
         System.out.println("You got this " + getName() + ". It's time to use your Leech Seed!");
@@ -58,5 +58,6 @@ public class GrassPokemon extends PokemonSuper {
     public void mainWeaknesses() {
         System.out.println("Grass Pokemon " + getName() + " weaknesses are: fire, ice and flying.");
     }
+
 
 }

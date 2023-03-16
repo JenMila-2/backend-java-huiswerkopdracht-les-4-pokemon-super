@@ -166,4 +166,5 @@ public class PokemonGym extends PokemonSuper{
     @Override
     public void mainWeaknesses() {
     }
+
 }

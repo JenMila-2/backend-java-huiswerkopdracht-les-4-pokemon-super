@@ -91,30 +91,30 @@ public class Main {
 
         //*** Additional Methods from the PokemonGym class ***//
         //Outputs a list of weaknesses per Ppkemon type//
-        /*PokemonGym electricPokemonWeaknesses = new PokemonGym();
-        electricPokemonWeaknesses.electricPokemonWeaknessList();*/
+    /*PokemonGym electricPokemonWeaknesses = new PokemonGym();
+    electricPokemonWeaknesses.electricPokemonWeaknessList();*/
 
-        /*PokemonGym firePokemonWeaknesses = new PokemonGym();
-        firePokemonWeaknesses.firePokemonWeaknessList();
+    /*PokemonGym firePokemonWeaknesses = new PokemonGym();
+    firePokemonWeaknesses.firePokemonWeaknessList();
 
-        PokemonGym waterPokemonWeaknesses = new PokemonGym();
-        waterPokemonWeaknesses.waterPokemonWeaknessList();
+    PokemonGym waterPokemonWeaknesses = new PokemonGym();
+    waterPokemonWeaknesses.waterPokemonWeaknessList();
 
-        PokemonGym grassPokemonWeaknesses = new PokemonGym();
-        grassPokemonWeaknesses.grassPokemonWeaknessList();*/
+    PokemonGym grassPokemonWeaknesses = new PokemonGym();
+    grassPokemonWeaknesses.grassPokemonWeaknessList();*/
 
         //Outputs a complete list of all Pokemon in this program (20 Pokemons)//
-        /*PokemonGym pokemonIndex = new PokemonGym();
-        pokemonIndex.printPokemonIndex();*/
+    /*PokemonGym pokemonIndex = new PokemonGym();
+    pokemonIndex.printPokemonIndex();*/
 
         //Outputs a list of skills per Pokemon//
-        /*PokemonGym skillList = new PokemonGym();
-        skillList.skillList();*/
+    /*PokemonGym skillList = new PokemonGym();
+    skillList.skillList();*/
+
+
 
     }
-
 }
-
 
 
 

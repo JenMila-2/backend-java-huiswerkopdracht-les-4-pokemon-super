@@ -61,4 +61,5 @@ public class FirePokemon extends PokemonSuper {
         System.out.println("Fire Pokemon " + getName() + " weaknesses are: water, ground and rock.");
     }
 
+
 }
