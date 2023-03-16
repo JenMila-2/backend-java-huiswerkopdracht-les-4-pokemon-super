@@ -88,6 +88,22 @@ public class Main {
 
         System.out.println("\n");
 
+        pikachu.printImagePikachu();
+
+        System.out.println("\n");
+
+        charmander.printImageCharmander();
+
+        System.out.println("\n");
+
+        bulbasaur.printImageBulbasaur();
+
+        System.out.println("\n");
+
+        squirtle.printImageSquirtle();
+
+        System.out.println("\n");
+
 
         //*** Additional Methods from the PokemonGym class ***//
         //Outputs a list of weaknesses per Ppkemon type//

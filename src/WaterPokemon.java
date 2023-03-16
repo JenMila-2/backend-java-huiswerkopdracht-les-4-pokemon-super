@@ -51,6 +51,24 @@ public class WaterPokemon extends PokemonSuper {
     //While the move doesn’t directly deal damage, it causes it to rain, it causes Water-type moves to deal 50% more damage while fire-type moves deal 50% less.
 
 
+    public void printImageSquirtle() {
+        System.out.println("⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
+                "⠀⠀⠀⠀⠀⠀⣴⡎⠠⠊⠀⠠⠚⢿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
+                "⠀⠀⠀⠀⠀⢠⡍⠀⠀⠀⠀⣾⣤⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
+                "⠀⠀⠀⠀⢀⠞⠀⠀⠀⠀⠈⠙⠡⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
+                "⠀⠀⠀⠀⠀⢷⣤⣮⣤⣴⣶⣶⣶⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
+                "⠀⠀⠀⠀⠀⢀⣙⣿⣿⣿⣿⣿⣿⣿⣿⣯⣇⡀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
+                "⠀⠀⢀⠔⠊⠁⣰⠙⠻⢿⣿⣿⠟⠁⠻⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀\n" +
+                "⢈⣶⣂⣀⠀⡐⠁⠈⠁⡒⠛⠋⢀⠀⢀⣿⡟⣿⠃⠀⠀⠀⠀⠀⠀⠀\n" +
+                "⠈⠉⠉⠛⠛⡷⡀⠀⠀⡇⢠⣤⣿⣐⣿⣿⣧⣿⢀⠀⠀⠀⠀⠀⠀⠀\n" +
+                "⠀⠀⠀⠀⠀⣣⠏⠐⠒⠦⠤⠬⢽⣹⣿⣿⣿⣿⣟⠀⡠⠐⠒⠒⣦⡀\n" +
+                "⠀⠀⠀⠀⡔⠘⢄⠀⢠⡄⠀⢀⣼⠟⠉⠉⠳⣿⢇⣼⣤⣤⣴⣾⣿⣿\n" +
+                "⠀⠀⠀⢰⣀⣴⣿⣿⣿⣿⣿⣿⡃⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⡿\n" +
+                "⠀⠀⠀⣼⣿⣿⣿⣿⠋⠙⠛⠻⠷⣄⡀⢀⣰⣿⣿⣿⣿⣿⣿⡿⠛⠀\n" +
+                "⠀⠀⠀⠉⠹⠛⠋⠁⠀⠀⠀⠀⠀⠿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀\n" +
+                "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠉⠁⠉⠀⠀⠀⠀⠀⠀⠀⠀\n");
+    }
+
     //*** Abstract Methods - From the PokemonSuper class ***//
     @Override
     public void speaks() {

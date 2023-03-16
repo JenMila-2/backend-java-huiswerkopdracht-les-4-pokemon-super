@@ -49,6 +49,19 @@ public class GrassPokemon extends PokemonSuper {
     //Leech Seed plants a seed on the target that drains 1⁄8 of its maximum HP at the end of each turn and restores it to the user, or any Pokémon that takes its place. It does not work on Grass-type Pokémon;.
 
 
+    public void printImageBulbasaur() {
+        System.out.println( "⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⡀⠈⡖⡤⠄⠀\n" +
+                "⠀⠀⢀⡀⠀⠀⠀⡐⠁⠀⠀⠠⠐⠂⠀⠁⠀⠀⠀⠀\n" +
+                "⠀⠰⡁⠐⢉⣉⣭⡍⠁⠂⠉⠘⡀⠀⠀⠀⠀⠂⠡⠀\n" +
+                "⢀⣊⠀⡄⠻⠿⠋⠀⠀⠀⠀⠀⢃⠀⠀⠀⠀⠀⠀⢀\n" +
+                "⡎⣾⠀⠁⣴⡆⠀⠡⢺⣿⣆⠀⢠⢱⣄⠀⠀⠀⠀⠈\n" +
+                "⡑⠟⠀⠀⠀⠀⠀⢀⣸⡿⠟⠀⠀⠈⢿⣿⡦⡀⠀⡰\n" +
+                "⠙⠔⠦⣤⣥⣤⣤⣤⡤⠆⠀⠀⠀⠀⢀⢀⠀⠈⠎⠀\n" +
+                "⠀⠀⠈⣰⡋⢉⠉⠁⠒⠂⢇⢠⡆⠀⠸⢴⣿⠀⠘⠀\n" +
+                "⠀⠀⠘⡿⠃⠀⠨⠒⢆⣸⣿⠁⠀⡠⡇⠈⠋⠀⠰⠀\n" +
+                "⠀⠀⠀⠛⠒⠒⠁⠀⠈⠷⡤⠤⠐⠀⠘⠒⠒⠖⠁⠀\n");
+    }
+
     //*** Abstract Methods - From the PokemonSuper class ***//
     @Override
     public void speaks() {
